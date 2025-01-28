@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Trash folder which may appear on external disks
+.Trashes
+
+# macOS-specific metadata files
+._*
+
+# macOS Finder folder settings
+.Spotlight-V100
+.fseventsd
+
+# Temporary files
+.TemporaryItems
+.VolumeIcon.icns
+.apdisk
